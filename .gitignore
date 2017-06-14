@@ -5,6 +5,9 @@ target/
 .settings/
 
 *.iml
+*.ipr
+*.IWS
+
 .idea/
 /bin/
 *~
